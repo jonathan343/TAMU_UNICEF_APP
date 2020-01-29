@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E155D0023E151060092B84F /* Screen Shot 2020-01-28 at 11.34.43 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E155CFF23E151060092B84F /* Screen Shot 2020-01-28 at 11.34.43 PM.png */; };
+		5E155D0223E152290092B84F /* new_logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E155D0123E152280092B84F /* new_logo.jpg */; };
+		5E155D0423E152300092B84F /* new_logo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E155D0323E152300092B84F /* new_logo2.jpg */; };
 		5E4C3D1123E132840018EF4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4C3D1023E132840018EF4A /* AppDelegate.swift */; };
 		5E4C3D1323E132840018EF4A /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4C3D1223E132840018EF4A /* FirstViewController.swift */; };
 		5E4C3D1523E132840018EF4A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4C3D1423E132840018EF4A /* SecondViewController.swift */; };
@@ -15,6 +18,9 @@
 		5E4C3D1D23E132850018EF4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E4C3D1B23E132850018EF4A /* LaunchScreen.storyboard */; };
 		5E4C3D2823E132860018EF4A /* TAMU_UNICEF_APPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4C3D2723E132860018EF4A /* TAMU_UNICEF_APPTests.swift */; };
 		5E4C3D3323E132860018EF4A /* TAMU_UNICEF_APPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4C3D3223E132860018EF4A /* TAMU_UNICEF_APPUITests.swift */; };
+		5E4C3D4723E13A320018EF4A /* atmLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E4C3D4623E13A320018EF4A /* atmLogo.png */; };
+		5EB9230823E141E6003C8257 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9230723E141E6003C8257 /* ThirdViewController.swift */; };
+		5EB9230A23E14211003C8257 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9230923E14211003C8257 /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E155CFF23E151060092B84F /* Screen Shot 2020-01-28 at 11.34.43 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-01-28 at 11.34.43 PM.png"; sourceTree = "<group>"; };
+		5E155D0123E152280092B84F /* new_logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = new_logo.jpg; sourceTree = "<group>"; };
+		5E155D0323E152300092B84F /* new_logo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = new_logo2.jpg; sourceTree = "<group>"; };
 		5E4C3D0D23E132830018EF4A /* TAMU_UNICEF_APP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TAMU_UNICEF_APP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E4C3D1023E132840018EF4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E4C3D1223E132840018EF4A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +58,9 @@
 		5E4C3D2E23E132860018EF4A /* TAMU_UNICEF_APPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TAMU_UNICEF_APPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E4C3D3223E132860018EF4A /* TAMU_UNICEF_APPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAMU_UNICEF_APPUITests.swift; sourceTree = "<group>"; };
 		5E4C3D3423E132860018EF4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E4C3D4623E13A320018EF4A /* atmLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atmLogo.png; sourceTree = "<group>"; };
+		5EB9230723E141E6003C8257 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		5EB9230923E14211003C8257 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,10 +114,16 @@
 				5E4C3D1023E132840018EF4A /* AppDelegate.swift */,
 				5E4C3D1223E132840018EF4A /* FirstViewController.swift */,
 				5E4C3D1423E132840018EF4A /* SecondViewController.swift */,
+				5EB9230723E141E6003C8257 /* ThirdViewController.swift */,
+				5EB9230923E14211003C8257 /* FourthViewController.swift */,
 				5E4C3D1623E132840018EF4A /* Main.storyboard */,
 				5E4C3D1923E132850018EF4A /* Assets.xcassets */,
 				5E4C3D1B23E132850018EF4A /* LaunchScreen.storyboard */,
 				5E4C3D1E23E132850018EF4A /* Info.plist */,
+				5E155CFF23E151060092B84F /* Screen Shot 2020-01-28 at 11.34.43 PM.png */,
+				5E4C3D4623E13A320018EF4A /* atmLogo.png */,
+				5E155D0323E152300092B84F /* new_logo2.jpg */,
+				5E155D0123E152280092B84F /* new_logo.jpg */,
 			);
 			path = TAMU_UNICEF_APP;
 			sourceTree = "<group>";
@@ -233,8 +251,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E4C3D1D23E132850018EF4A /* LaunchScreen.storyboard in Resources */,
+				5E155D0023E151060092B84F /* Screen Shot 2020-01-28 at 11.34.43 PM.png in Resources */,
 				5E4C3D1A23E132850018EF4A /* Assets.xcassets in Resources */,
+				5E4C3D4723E13A320018EF4A /* atmLogo.png in Resources */,
+				5E155D0423E152300092B84F /* new_logo2.jpg in Resources */,
 				5E4C3D1823E132840018EF4A /* Main.storyboard in Resources */,
+				5E155D0223E152290092B84F /* new_logo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,7 +283,9 @@
 			files = (
 				5E4C3D1523E132840018EF4A /* SecondViewController.swift in Sources */,
 				5E4C3D1123E132840018EF4A /* AppDelegate.swift in Sources */,
+				5EB9230823E141E6003C8257 /* ThirdViewController.swift in Sources */,
 				5E4C3D1323E132840018EF4A /* FirstViewController.swift in Sources */,
+				5EB9230A23E14211003C8257 /* FourthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +461,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UAZ65UPZR4;
 				INFOPLIST_FILE = TAMU_UNICEF_APP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -454,6 +479,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UAZ65UPZR4;
 				INFOPLIST_FILE = TAMU_UNICEF_APP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
