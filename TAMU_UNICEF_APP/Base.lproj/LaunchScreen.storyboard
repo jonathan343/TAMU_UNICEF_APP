@@ -16,12 +16,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="atmLogo.png" translatesAutoresizingMaskIntoConstraints="NO" id="uR4-4H-6W2">
-                                <rect key="frame" x="98" y="134" width="218" height="291"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="atmLogo.png" translatesAutoresizingMaskIntoConstraints="NO" id="HJ2-Wl-QaB">
+                                <rect key="frame" x="98" y="142" width="218" height="291"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2020-01-28 at 11.34.43 PM.png" translatesAutoresizingMaskIntoConstraints="NO" id="prU-si-idv">
-                                <rect key="frame" x="67" y="327" width="281" height="157"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2020-01-28 at 11.34.43 PM.png" translatesAutoresizingMaskIntoConstraints="NO" id="es3-oq-jcQ">
+                                <rect key="frame" x="67" y="335" width="281" height="157"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
